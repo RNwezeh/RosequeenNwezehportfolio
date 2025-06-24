@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm ROSEQUEEN NWEZEH 👋</h1>
 <p align="center">
   🌍 Front-End Developer | 💡 UI/UX Enthusiast | ⚙️ Workflow Innovator
 </p>
@@ -20,7 +20,7 @@
 - ✅ Mastered foundational web technologies: HTML5, CSS3, JavaScript
 - ✅ Collaborated on peer learning & group coding challenges
 - ✅ Learned Git version control and GitHub collaboration workflows
-- 🚀 Currently building advanced front-end projects with React
+- 🚀 Currently building front-end projects with React
 
 ---
 
@@ -88,9 +88,9 @@
 
 ### 📬 Let's Connect
 
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- ✉️ Email: Rosequeen.Nwezeh@gmail.com](mailto:Rosequeen.Nwezeh@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/Rose-Nwezeh(https://linkedin.com/in/Rose-nwezeh)
+- 🌐 Portfolio: [Rosequeen-Nwezeh.com](https://bit.ly/Rosequeennwezeh)
 
 ---
 
