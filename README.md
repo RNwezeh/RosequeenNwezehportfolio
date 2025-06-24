@@ -48,17 +48,17 @@
 ### 📜 Certifications
 
 - 🏆 ALX SE Front-End Developer Certificate *(in progress)*
-- 📜 Responsive Web Design – freeCodeCamp
-- 📜 JavaScript Essentials – SoloLearn
-- 📜 Version Control with Git – Coursera
+- 📜 Responsive Web Design – *(in progress)*
+- 📜 JavaScript Essentials – *(in progress)*
+- 📜 Version Control with Git –*(in progress)*
 
 ---
 
 ### 📝 Blog & Resources
 
-- 📖 [Designing for Humans: My UI/UX Principles](https://dev.to/yourblog/designing-for-humans)
-- 💬 [Why I Chose Front-End Development at ALX](https://medium.com/@yourblog)
-- 📌 [Top 5 Tools for Workflow Automation](https://yourblog.com/workflow-tools)
+- 📖 [Designing for Humans: My UI/UX Principles](https://medium.com/@ogbogboemmanuelchuks/designing-for-humans-7-psychology-principles-every-ui-ux-designer-must-know-b72399f06a61)
+- 💬 [Why I Chose Front-End Development at ALX](https://www.alxafrica.com/programme/front-end-web-development/)
+- 📌 [Top 5 Tools for Workflow Automation](https://www.youtube.com/watch?v=VbYHxB4Nye8#:~:text=number%20one%20we%20have%20Zapier%20zapier%20is,favorite%20apps%20making%20them%20work%20together%20automatically.&text=when%20it%20comes%20to%20pricing%20unlike%20expensive,$9%20a%20month%20much%20cheaper%20than%20Zapier.)
 
 ---
 
